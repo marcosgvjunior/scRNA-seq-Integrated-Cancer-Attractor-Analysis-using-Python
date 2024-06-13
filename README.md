@@ -1,5 +1,7 @@
 # scRNA-seq Integrated Cancer Attractor Analysis using Python
 
+[![CI](https://github.com/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python/actions/workflows/main.yml/badge.svg?branch=testing-branch)](https://github.com/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python/actions/workflows/main.yml)
+
 [![Coverage Status](https://coveralls.io/repos/github/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python/badge.svg?branch=testing-branch)](https://coveralls.io/github/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python?branch=testing-branch)
 
 ## Overview
