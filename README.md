@@ -1,6 +1,6 @@
 # scRNA-seq Integrated Cancer Attractor Analysis using Python
 
-[![Coverage Status](https://coveralls.io/repos/github/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python/badge.svg)](https://coveralls.io/github/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python)
+[![Coverage Status](https://coveralls.io/repos/github/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python/badge.svg?branch=testing-branch)](https://coveralls.io/github/marcosgvjunior/scRNA-seq-Integrated-Cancer-Attractor-Analysis-using-Python?branch=testing-branch)
 
 ## Overview
 Repository to progressively translate the Wolfram Mathematica code from the original repository ([`Biomarker-Guided scRNA-Seq Cancer Attractor Analysis`](https://github.com/marcosgvjunior/Biomarker-Guided-scRNA-Seq-Cancer-Attractor-Analysis)) to Python. It also aims to include analyses from previous studies ([article](https://doi.org/10.3390/ijms25094894)) and additional features.
